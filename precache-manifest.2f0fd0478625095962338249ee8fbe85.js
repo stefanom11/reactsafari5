@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/reactsafari5/static/media/ANTILOPE0.8e150ce2.jpg"
   },
   {
-    "revision": "97d5e2f54f80187a8867",
+    "revision": "4acbbece44ba7ecda03e",
     "url": "/reactsafari5/static/css/main.bf50fe52.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/reactsafari5/static/media/GHEPARDO0.550d3392.jpg"
   },
   {
-    "revision": "97d5e2f54f80187a8867",
-    "url": "/reactsafari5/static/js/main.274cb883.chunk.js"
+    "revision": "4acbbece44ba7ecda03e",
+    "url": "/reactsafari5/static/js/main.7fed2188.chunk.js"
   },
   {
     "revision": "cf145cef2cb18566d719c11b9456f544",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/reactsafari5/static/media/HomeBG.6e0c4853.png"
   },
   {
-    "revision": "a1b577f1e7c370e69db9761d408b93c9",
+    "revision": "2c2d6ba4cd70d46d7bf6130f797e0727",
     "url": "/reactsafari5/index.html"
   }
 ];
